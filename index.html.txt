@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrightStart | Your Creative Future</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1 class="logo">BrightStart</h1>
+            <nav>
+                <ul class="nav-links">
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">About</a></li>
+                    <li><a href="#">Features</a></li>
+                    <li><a href="#">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero">
+        <div class="container hero-content">
+            <h2>Ignite Your Creativity</h2>
+            <p>Explore endless possibilities in web development and design.</p>
+            <a href="#" class="cta-button">Get Started</a>
+        </div>
+    </section>
+
+    <section class="features">
+        <div class="container">
+            <h3 class="section-title">Why Choose BrightStart?</h3>
+            <div class="feature-grid">
+                <div class="feature-box">
+                    <h4>Simple Learning</h4>
+                    <p>Designed for beginners with step-by-step guidance.</p>
+                </div>
+                <div class="feature-box">
+                    <h4>Creative Projects</h4>
+                    <p>Build projects that fuel imagination and skill-building.</p>
+                </div>
+                <div class="feature-box">
+                    <h4>Responsive Design</h4>
+                    <p>Learn to build websites that look great on any device.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2025 BrightStart. All rights reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
